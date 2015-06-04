@@ -1,0 +1,87 @@
+Crop Type,Crop Type Index,Soil type,Soil Type Index,N Available,P Available,K Available,Target,N Required,P Required,K Required
+Rice-Mashuri,1,Black soil (Vertisols),1,150,5,150,50,115,144,52
+Rice-Mashuri,1,Black soil (Vertisols),1,175,10,200,50,102,128,42
+Rice-Mashuri,1,Black soil (Vertisols),1,200,15,250,50,90,112,33
+Rice-Mashuri,1,Black soil (Vertisols),1,225,20,300,50,77,96,23
+Rice-Mashuri,1,Black soil (Vertisols),1,250,25,350,50,65,80,14
+Rice-Mashuri,1,Black soil (Vertisols),1,275,30,400,50,52,64,4
+Rice-Mashuri,1,Black soil (Vertisols),1,300,35,450,50,40,49,3
+Rice-Mashuri,1,Black soil (Vertisols),1,325,40,500,50,27,33,2
+Rice-Mashuri,1,Black soil (Vertisols),1,350,45,550,50,14,17,2
+Rice-Mashuri,1,Black soil (Vertisols),1,375,50,600,50,2,15,2
+Rice-Mashuri,1,Black soil (Vertisols),1,400,55,650,50,0,15,2
+Rice-Mashuri,1,Black soil (Vertisols),1,150,5,150,55,133,144,60
+Rice-Mashuri,1,Black soil (Vertisols),1,175,10,200,55,121,128,50
+Rice-Mashuri,1,Black soil (Vertisols),1,200,15,250,55,108,112,40
+Rice-Mashuri,1,Black soil (Vertisols),1,225,20,300,55,96,96,31
+Rice-Mashuri,1,Black soil (Vertisols),1,250,25,350,55,83,80,22
+Rice-Mashuri,1,Black soil (Vertisols),1,275,30,400,55,71,65,12
+Rice-Mashuri,1,Black soil (Vertisols),1,300,35,450,55,58,49,10
+Rice-Mashuri,1,Black soil (Vertisols),1,325,40,500,55,46,33,10
+Rice-Mashuri,1,Black soil (Vertisols),1,350,45,550,55,33,17,10
+Rice-Mashuri,1,Black soil (Vertisols),1,375,50,600,55,21,15,10
+Rice-Mashuri,1,Black soil (Vertisols),1,400,55,650,55,8,15,10
+Rice-Pothana,2,Sandy loam,2,150,5,100,50,123,87,112
+Rice-Pothana,2,Sandy loam,2,175,10,150,50,112,77,94
+Rice-Pothana,2,Sandy loam,2,200,15,200,50,101,66,76
+Rice-Pothana,2,Sandy loam,2,225,20,250,50,90,55,58
+Rice-Pothana,2,Sandy loam,2,250,25,300,50,79,45,40
+Rice-Pothana,2,Sandy loam,2,275,30,350,50,68,34,22
+Rice-Pothana,2,Sandy loam,2,300,35,400,50,57,23,4
+Rice-Pothana,2,Sandy loam,2,325,40,450,50,46,13,2
+Rice-Pothana,2,Sandy loam,2,350,45,500,50,35,12,2
+Rice-Pothana,2,Sandy loam,2,375,50,550,50,24,12,2
+Rice-Pothana,2,Sandy loam,2,400,55,600,50,13,12,2
+Rice-Pothana,2,Sandy loam,2,150,5,100,60,161,107,142
+Rice-Pothana,2,Sandy loam,2,175,10,150,60,150,96,124
+Rice-Pothana,2,Sandy loam,2,200,15,200,60,139,86,106
+Rice-Pothana,2,Sandy loam,2,225,20,250,60,128,75,88
+Rice-Pothana,2,Sandy loam,2,250,25,300,60,114,65,70
+Rice-Pothana,2,Sandy loam,2,275,30,350,60,106,54,52
+Rice-Pothana,2,Sandy loam,2,300,35,400,60,95,44,34
+Rice-Pothana,2,Sandy loam,2,325,40,450,60,84,33,16
+Rice-Pothana,2,Sandy loam,2,350,45,500,60,73,23,15
+Rice-Pothana,2,Sandy loam,2,375,50,550,60,62,12,15
+Rice-Pothana,2,Sandy loam,2,400,55,600,60,51,2,15
+Rice-MTU-2067,3,Alluvial,3,200,10,200,55,63,86,71
+Rice-MTU-2068,3,Alluvial,3,225,15,250,55,55,77,57
+Rice-MTU-2069,3,Alluvial,3,250,20,300,55,47,67,44
+Rice-MTU-2070,3,Alluvial,3,275,25,350,55,39,58,30
+Rice-MTU-2071,3,Alluvial,3,300,30,400,55,31,48,17
+Rice-MTU-2072,3,Alluvial,3,325,35,450,55,23,39,3
+Rice-MTU-2073,3,Alluvial,3,350,40,500,55,15,29,2
+Rice-MTU-2074,3,Alluvial,3,375,45,550,55,15,20,2
+Rice-MTU-2075,3,Alluvial,3,400,50,600,55,15,10,2
+Rice-MTU-2076,3,Alluvial,3,425,55,650,55,15,10,2
+Rice-MTU-2077,3,Alluvial,3,450,60,700,55,15,10,2
+Rice-MTU-2078,3,Alluvial,3,200,10,200,60,74,96,82
+Rice-MTU-2079,3,Alluvial,3,225,15,250,60,66,86,69
+Rice-MTU-2080,3,Alluvial,3,250,20,300,60,58,77,55
+Rice-MTU-2081,3,Alluvial,3,275,25,350,60,50,67,42
+Rice-MTU-2082,3,Alluvial,3,300,30,400,60,42,58,28
+Rice-MTU-2083,3,Alluvial,3,325,35,450,60,34,48,15
+Rice-MTU-2084,3,Alluvial,3,350,40,500,60,26,39,15
+Rice-MTU-2085,3,Alluvial,3,375,45,550,60,18,29,15
+Rice-MTU-2086,3,Alluvial,3,400,50,600,60,10,20,15
+Rice-MTU-2087,3,Alluvial,3,425,55,650,60,2,10,15
+Rice-MTU-2088,3,Alluvial,3,450,60,700,60,2,10,15
+Rice-MTU-5182,4,Black soil,4,150,10,200,60,152,106,50
+Rice-MTU-5183,4,Black soil,4,175,15,250,60,143,83,44
+Rice-MTU-5184,4,Black soil,4,200,20,300,60,135,61,38
+Rice-MTU-5185,4,Black soil,4,225,25,350,60,127,38,32
+Rice-MTU-5186,4,Black soil,4,250,30,400,60,119,15,26
+Rice-MTU-5187,4,Black soil,4,275,35,450,60,110,15,20
+Rice-MTU-5188,4,Black soil,4,300,40,500,60,102,15,14
+Rice-MTU-5189,4,Black soil,4,325,45,550,60,94,15,8
+Rice-MTU-5190,4,Black soil,4,350,50,600,60,86,15,2
+Rice-MTU-5191,4,Black soil,4,375,55,650,60,77,15,2
+Rice-MTU-5192,4,Black soil,4,150,10,200,70,185,131,63
+Rice-MTU-5193,4,Black soil,4,175,15,250,70,177,108,57
+Rice-MTU-5194,4,Black soil,4,200,20,300,70,169,86,51
+Rice-MTU-5195,4,Black soil,4,225,25,350,70,160,63,45
+Rice-MTU-5196,4,Black soil,4,250,30,400,70,152,41,39
+Rice-MTU-5197,4,Black soil,4,275,35,450,70,144,18,33
+Rice-MTU-5198,4,Black soil,4,300,40,500,70,136,15,27
+Rice-MTU-5199,4,Black soil,4,325,45,550,70,127,15,21
+Rice-MTU-5200,4,Black soil,4,350,50,600,70,119,15,15
+Rice-MTU-5201,4,Black soil,4,375,55,650,70,111,15,15
